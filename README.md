@@ -10,6 +10,9 @@ Agradecemos a todos que contribuíram para o sucesso deste projeto durante o sem
 
 Utilizamos uma [API específica da matéria de Digital](https://github.com/GlobalSolutionVacinaFacil/Digital). Certifique-se de revisar a documentação desta API para entender suas funcionalidades e como ela se integra ao projeto.
 
+ATENÇÃO: DEVIDO AZURE NÃO ACESSAR ESTA ORGANIZAÇÃO, NÓS DUPLICAMOS O REPOSITÓRIO PARA O PESSOAL PARA O ACTIONS FUNCIONAR.
+[API DUPLICADA](https://github.com/Leoozera/digital-gs/actions)
+
 ## Deploy
 
 O **Vacina Fácil** está atualmente implantado na plataforma Azure. Abaixo estão os detalhes da infraestrutura de deploy:
