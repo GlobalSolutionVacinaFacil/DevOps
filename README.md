@@ -34,4 +34,22 @@ A documentação da API está disponível no formato Insomnia. Você pode encont
 
 Com isso, você terá acesso completo à documentação da API e poderá explorar suas funcionalidades de maneira eficiente.
 
+### Links e Integrantes:
+RM 93038 Breno Massa Martins
+
+RM 94280 Gustavo Henrique Moura
+
+RM 95224 Leonard Karic Klovrza
+
+RM 94898 Luan Santos dos Reis
+
+
+Link YouTube: https://youtu.be/g3B1N4tRoe4
+
+Link GitHub DevOps: https://github.com/GlobalSolutionVacinaFacil/DevOps.git
+
+Link GitHub Digital API: https://github.com/Leoozera/digital-gs.git
+
+Link GitHub Digital API (Reserva): https://github.com/GlobalSolutionVacinaFacil/Digital.git
+
 Agradecemos novamente por seu interesse e contribuição para o projeto **Vacina Fácil**. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato com a equipe de desenvolvimento.
